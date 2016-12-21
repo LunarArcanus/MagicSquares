@@ -1,0 +1,6 @@
+Requires Python 3.4
+
+Do:
+import MagicSquares
+
+from the Python console or double-click on the MagicSquares.py file
